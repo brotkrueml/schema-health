@@ -48,6 +48,7 @@ final class MedicalWebPage extends AbstractType implements WebPageTypeInterface
         'contributor',
         'copyrightHolder',
         'copyrightYear',
+        'countryOfOrigin',
         'creator',
         'dateCreated',
         'dateModified',
