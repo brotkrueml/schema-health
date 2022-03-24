@@ -38,7 +38,7 @@ The Fluid view helpers can be used like described in the :ref:`schema manual
 .. code-block:: html
 
    <schema:type.drug
-      -id="http://example.org/#some-drug"
+      -id="https://example.org/#some-drug"
       name="some drug"
    />
 

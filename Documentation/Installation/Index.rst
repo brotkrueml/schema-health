@@ -1,6 +1,6 @@
 .. include:: /Includes.rst.txt
 
-.. highlight:: shell
+.. highlight:: bash
 
 .. index:: Installation
 
@@ -25,5 +25,5 @@ and the recent stable version will be installed.
 
 You can also install the extension from the `TYPO3 Extension Repository (TER)
 <https://extensions.typo3.org/extension/schema_health/>`_. See
-:ref:`t3install:extension-installation` for a manual how to install an
+:ref:`t3start:extensions_legacy_management` for a manual how to install an
 extension.
