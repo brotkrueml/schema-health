@@ -58,5 +58,6 @@ on the top right to submit your change request.
    Introduction/Index
    Installation/Index
    Developer/Index
+   Changelog/Index
    Sitemap
 
