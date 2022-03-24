@@ -49,6 +49,7 @@ final class DiagnosticLab extends AbstractType
         'image',
         'interactionStatistic',
         'isicV4',
+        'keywords',
         'legalName',
         'leiCode',
         'location',

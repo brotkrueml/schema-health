@@ -92,7 +92,6 @@ final class MedicalScholarlyArticle extends AbstractType
         'position',
         'potentialAction',
         'producer',
-        'provider',
         'publication',
         'publicationType',
         'publisher',

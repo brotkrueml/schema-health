@@ -12,6 +12,12 @@ defined('TYPO3_MODE') or die();
             Brotkrueml\SchemaHealth\EventListener\RegisterAdditionalProperties::class,
             '__invoke'
         );
+        $signalSlotDispatcher->connect(
+            Brotkrueml\Schema\Core\Model\AbstractType::class,
+            'registerAdditionalTypeProperties',
+            Brotkrueml\SchemaHealth\EventListener\RegisterTypePropertiesMovedFromCoreToPending::class,
+            '__invoke'
+        );
     }
 
     $GLOBALS['TYPO3_CONF_VARS']['SYS']['fluid']['namespaces']['schema'][] = 'Brotkrueml\\SchemaHealth\\ViewHelpers';
