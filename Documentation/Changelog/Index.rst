@@ -17,6 +17,12 @@ Updated
 
 * schema.org definition to version 15.0
 
+Removed
+^^^^^^^
+
+
+* Compatibility with TYPO3 v9
+
 `1.2.0 <https://github.com/brotkrueml/schema-health/compare/v1.1.0...v1.2.0>`_ - 2022-03-28
 -----------------------------------------------------------------------------------------------
 
