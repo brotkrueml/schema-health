@@ -14,7 +14,7 @@ namespace Brotkrueml\SchemaHealth\ViewHelpers\Type;
 use Brotkrueml\Schema\Core\ViewHelpers\AbstractTypeViewHelper;
 
 /**
- * A particular physical or virtual business of an organization for medical purposes. Examples of MedicalBusiness include differents business run by health professionals.
+ * A particular physical or virtual business of an organization for medical purposes. Examples of MedicalBusiness include different businesses run by health professionals.
  */
 final class MedicalBusinessViewHelper extends AbstractTypeViewHelper
 {

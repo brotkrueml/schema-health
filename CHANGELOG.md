@@ -6,10 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Updated
+- schema.org definition to version 15.0
+
 ## [1.2.0] - 2022-03-28
 
 ### Updated
-- Schema definition to version 14.0
+- schema.org definition to version 14.0
 
 ## [1.1.0] - 2021-07-07
 
@@ -17,7 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Allow usage with EXT:schema v2
 
 ### Updated
-- Schema definition to version 13.0
+- schema.org definition to version 13.0
 
 ## [1.0.1] - 2021-04-08
 
