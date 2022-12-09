@@ -25,7 +25,7 @@ final class RegisterTypePropertiesMovedFromCoreToPending
     /**
      * @var array<class-string>
      */
-    private array $providerTypes = [
+    private $providerTypes = [
         Type\Diet::class,
         Type\ExercisePlan::class,
         Type\MedicalScholarlyArticle::class,
