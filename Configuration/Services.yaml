@@ -6,7 +6,7 @@ services:
 
   Brotkrueml\SchemaHealth\:
     resource: '../Classes/*'
-    exclude: '../Classes/{Model,ViewHelpers}'
+    exclude: '../Classes/Model'
 
   Brotkrueml\SchemaHealth\EventListener\RegisterAdditionalProperties:
     tags:
