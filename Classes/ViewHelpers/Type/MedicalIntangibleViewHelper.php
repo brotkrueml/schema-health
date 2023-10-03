@@ -18,4 +18,5 @@ use Brotkrueml\Schema\Core\ViewHelpers\AbstractTypeViewHelper;
  */
 final class MedicalIntangibleViewHelper extends AbstractTypeViewHelper
 {
+    protected string $type = 'MedicalIntangible';
 }

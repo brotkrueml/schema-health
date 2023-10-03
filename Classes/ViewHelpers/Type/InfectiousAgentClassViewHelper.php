@@ -18,4 +18,5 @@ use Brotkrueml\Schema\Core\ViewHelpers\AbstractTypeViewHelper;
  */
 final class InfectiousAgentClassViewHelper extends AbstractTypeViewHelper
 {
+    protected string $type = 'InfectiousAgentClass';
 }
