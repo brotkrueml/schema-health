@@ -18,22 +18,19 @@ Using the API
 =============
 
 The API can be used like described in the :ref:`schema manual
-<schema:api>`. But there is one detail: As the classes of this extensions
-use a different namespace the instantiation of type models must reflect this::
+<ext_schema:api>`. Use the :php:`TypeFactory` for instantiating a model type
+class:
 
-   $drug = new \Brotkrueml\SchemaHealth\Model\Type\Drug();
-
-Alternatively, you can use the :php:`TypeFactory`, so you don't have to deal
-with namespaces::
-
-   $drug = \Brotkrueml\Schema\Type\TypeFactory::createType('Drug');
+.. literalinclude:: _MyController.php
+   :language: php
+   :caption: EXT:my_extension/Classes/Controller/MyController.php
 
 
 Using the view helpers
 ======================
 
 The Fluid view helpers can be used like described in the :ref:`schema manual
-<schema:view-helpers>`:
+<ext_schema:view-helpers>`:
 
 .. code-block:: html
 

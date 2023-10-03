@@ -11,14 +11,16 @@ declare(strict_types=1);
 
 namespace Brotkrueml\SchemaHealth\Model\Type;
 
+use Brotkrueml\Schema\Attributes\Type;
 use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Any object used in a medical capacity, such as to diagnose or treat a patient.
  */
+#[Type('MedicalDevice')]
 final class MedicalDevice extends AbstractType
 {
-    protected static $propertyNames = [
+    protected static array $propertyNames = [
         'additionalType',
         'adverseOutcome',
         'alternateName',

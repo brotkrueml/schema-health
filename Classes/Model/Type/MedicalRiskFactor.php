@@ -11,14 +11,16 @@ declare(strict_types=1);
 
 namespace Brotkrueml\SchemaHealth\Model\Type;
 
+use Brotkrueml\Schema\Attributes\Type;
 use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * A risk factor is anything that increases a person's likelihood of developing or contracting a disease, medical condition, or complication.
  */
+#[Type('MedicalRiskFactor')]
 final class MedicalRiskFactor extends AbstractType
 {
-    protected static $propertyNames = [
+    protected static array $propertyNames = [
         'additionalType',
         'alternateName',
         'code',

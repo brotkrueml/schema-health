@@ -11,14 +11,16 @@ declare(strict_types=1);
 
 namespace Brotkrueml\SchemaHealth\Model\Type;
 
+use Brotkrueml\Schema\Attributes\Type;
 use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * A guideline recommendation that is regarded as efficacious and where quality of the data supporting the recommendation is sound.
  */
+#[Type('MedicalGuidelineRecommendation')]
 final class MedicalGuidelineRecommendation extends AbstractType
 {
-    protected static $propertyNames = [
+    protected static array $propertyNames = [
         'additionalType',
         'alternateName',
         'code',

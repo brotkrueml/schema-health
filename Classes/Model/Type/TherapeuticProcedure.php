@@ -11,14 +11,16 @@ declare(strict_types=1);
 
 namespace Brotkrueml\SchemaHealth\Model\Type;
 
+use Brotkrueml\Schema\Attributes\Type;
 use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * A medical procedure intended primarily for therapeutic purposes, aimed at improving a health condition.
  */
+#[Type('TherapeuticProcedure')]
 final class TherapeuticProcedure extends AbstractType
 {
-    protected static $propertyNames = [
+    protected static array $propertyNames = [
         'additionalType',
         'adverseOutcome',
         'alternateName',

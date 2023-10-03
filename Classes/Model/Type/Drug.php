@@ -11,14 +11,16 @@ declare(strict_types=1);
 
 namespace Brotkrueml\SchemaHealth\Model\Type;
 
+use Brotkrueml\Schema\Attributes\Type;
 use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * A chemical or biologic substance, used as a medical therapy, that has a physiological effect on an organism. Here the term drug is used interchangeably with the term medicine although clinical knowledge makes a clear difference between them.
  */
+#[Type('Drug')]
 final class Drug extends AbstractType
 {
-    protected static $propertyNames = [
+    protected static array $propertyNames = [
         'activeIngredient',
         'additionalProperty',
         'additionalType',

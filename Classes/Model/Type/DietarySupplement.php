@@ -11,14 +11,16 @@ declare(strict_types=1);
 
 namespace Brotkrueml\SchemaHealth\Model\Type;
 
+use Brotkrueml\Schema\Attributes\Type;
 use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * A product taken by mouth that contains a dietary ingredient intended to supplement the diet. Dietary ingredients may include vitamins, minerals, herbs or other botanicals, amino acids, and substances such as enzymes, organ tissues, glandulars and metabolites.
  */
+#[Type('DietarySupplement')]
 final class DietarySupplement extends AbstractType
 {
-    protected static $propertyNames = [
+    protected static array $propertyNames = [
         'activeIngredient',
         'additionalProperty',
         'additionalType',

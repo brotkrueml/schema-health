@@ -11,14 +11,16 @@ declare(strict_types=1);
 
 namespace Brotkrueml\SchemaHealth\Model\Type;
 
+use Brotkrueml\Schema\Attributes\Type;
 use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * A guideline contraindication that designates a process as harmful and where quality of the data supporting the contraindication is sound.
  */
+#[Type('MedicalGuidelineContraindication')]
 final class MedicalGuidelineContraindication extends AbstractType
 {
-    protected static $propertyNames = [
+    protected static array $propertyNames = [
         'additionalType',
         'alternateName',
         'code',

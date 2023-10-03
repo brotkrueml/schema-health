@@ -11,14 +11,16 @@ declare(strict_types=1);
 
 namespace Brotkrueml\SchemaHealth\Model\Type;
 
+use Brotkrueml\Schema\Attributes\Type;
 use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * A process of care relying upon counseling, dialogue and communication  aimed at improving a mental health condition without use of drugs.
  */
+#[Type('PsychologicalTreatment')]
 final class PsychologicalTreatment extends AbstractType
 {
-    protected static $propertyNames = [
+    protected static array $propertyNames = [
         'additionalType',
         'adverseOutcome',
         'alternateName',

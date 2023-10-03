@@ -11,14 +11,16 @@ declare(strict_types=1);
 
 namespace Brotkrueml\SchemaHealth\Model\Type;
 
+use Brotkrueml\Schema\Attributes\Type;
 use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Any matter of defined composition that has discrete existence, whose origin may be biological, mineral or chemical.
  */
+#[Type('Substance')]
 final class Substance extends AbstractType
 {
-    protected static $propertyNames = [
+    protected static array $propertyNames = [
         'activeIngredient',
         'additionalType',
         'alternateName',

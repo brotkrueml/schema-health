@@ -11,14 +11,16 @@ declare(strict_types=1);
 
 namespace Brotkrueml\SchemaHealth\Model\Type;
 
+use Brotkrueml\Schema\Attributes\Type;
 use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Any feature associated or not with a medical condition. In medicine a symptom is generally subjective while a sign is objective.
  */
+#[Type('MedicalSignOrSymptom')]
 final class MedicalSignOrSymptom extends AbstractType
 {
-    protected static $propertyNames = [
+    protected static array $propertyNames = [
         'additionalType',
         'alternateName',
         'associatedAnatomy',
