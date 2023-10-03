@@ -11,10 +11,8 @@ services:
     tags:
       - name: event.listener
         identifier: 'ext-schema-health/registerAdditionalProperties'
-        event: Brotkrueml\Schema\Event\RegisterAdditionalTypePropertiesEvent
 
   Brotkrueml\SchemaHealth\EventListener\RegisterTypePropertiesMovedFromCoreToPending:
     tags:
       - name: event.listener
         identifier: 'ext-schema-health/registerTypePropertiesMovedFromCoreToPending'
-        event: Brotkrueml\Schema\Event\RegisterAdditionalTypePropertiesEvent
