@@ -33,6 +33,11 @@ final class RegisterAdditionalProperties
             $event->registerAdditionalProperty('availableService');
             $event->registerAdditionalProperty('medicalSpecialty');
         }
+        if ($event->getType() === Type\IndividualPhysician::class) {
+            $event->registerAdditionalProperty('availableService');
+            $event->registerAdditionalProperty('hospitalAffiliation');
+            $event->registerAdditionalProperty('medicalSpecialty');
+        }
         if ($event->getType() === Type\MedicalOrganization::class) {
             $event->registerAdditionalProperty('medicalSpecialty');
         }
@@ -46,6 +51,11 @@ final class RegisterAdditionalProperties
             $event->registerAdditionalProperty('medicalSpecialty');
         }
         if ($event->getType() === Type\Physician::class) {
+            $event->registerAdditionalProperty('availableService');
+            $event->registerAdditionalProperty('hospitalAffiliation');
+            $event->registerAdditionalProperty('medicalSpecialty');
+        }
+        if ($event->getType() === Type\PhysiciansOffice::class) {
             $event->registerAdditionalProperty('availableService');
             $event->registerAdditionalProperty('hospitalAffiliation');
             $event->registerAdditionalProperty('medicalSpecialty');
