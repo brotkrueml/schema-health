@@ -50,6 +50,7 @@ final class Patient extends AbstractType
         'geographicArea',
         'givenName',
         'globalLocationNumber',
+        'hasCertification',
         'hasOccupation',
         'hasOfferCatalog',
         'hasPOS',

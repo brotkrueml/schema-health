@@ -41,6 +41,7 @@ final class DietarySupplement extends AbstractType
         'gtin14',
         'gtin8',
         'guideline',
+        'hasCertification',
         'height',
         'identifier',
         'image',

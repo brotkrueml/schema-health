@@ -51,6 +51,7 @@ final class Drug extends AbstractType
         'gtin14',
         'gtin8',
         'guideline',
+        'hasCertification',
         'height',
         'identifier',
         'image',
