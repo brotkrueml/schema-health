@@ -64,6 +64,7 @@ final class MedicalBusiness extends AbstractType
         'globalLocationNumber',
         'hasCertification',
         'hasMap',
+        'hasMemberProgram',
         'hasOfferCatalog',
         'hasPOS',
         'identifier',

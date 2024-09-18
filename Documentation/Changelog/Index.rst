@@ -11,6 +11,12 @@ and this project adheres to `Semantic Versioning <https://semver.org/spec/v2.0.0
 `Unreleased <https://github.com/brotkrueml/schema-health/compare/v2.3.0...HEAD>`_
 -------------------------------------------------------------------------------------
 
+Updated
+^^^^^^^
+
+
+* schema.org definition to version 28.0
+
 `2.3.0 <https://github.com/brotkrueml/schema-health/compare/v2.2.0...v2.3.0>`_ - 2024-05-20
 -----------------------------------------------------------------------------------------------
 

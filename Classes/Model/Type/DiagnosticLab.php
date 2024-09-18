@@ -47,6 +47,7 @@ final class DiagnosticLab extends AbstractType
         'funder',
         'globalLocationNumber',
         'hasCertification',
+        'hasMemberProgram',
         'hasOfferCatalog',
         'hasPOS',
         'identifier',
