@@ -19,7 +19,6 @@
 	],
 	"support": {
 		"issues": "https://github.com/brotkrueml/schema-health/issues",
-		"forum": "https://github.com/brotkrueml/schema/discussions",
 		"source": "https://github.com/brotkrueml/schema-health",
 		"docs": "https://docs.typo3.org/p/brotkrueml/schema-health/main/en-us/"
 	},

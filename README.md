@@ -18,4 +18,4 @@ related to health and lifesciences: https://schema.org/docs/health-lifesci.home.
 [Documentation](https://docs.typo3.org/p/brotkrueml/schema-health/main/en-us/) |
 [Changelog](https://github.com/brotkrueml/schema-health/blob/main/CHANGELOG.md) |
 [TYPO3 Extension Repository](https://extensions.typo3.org/extension/schema_health) |
-[Forum](https://github.com/brotkrueml/schema/discussions)
+[Slack](https://typo3.slack.com/app_redirect?channel=CV36M73D5)
