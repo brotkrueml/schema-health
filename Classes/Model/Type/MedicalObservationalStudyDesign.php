@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Design models for observational medical studies. Enumerated type.
+ * @deprecated This type represents an enumeration, use the specific MedicalObservationalStudyDesign enum instead.
  */
 #[Type('MedicalObservationalStudyDesign')]
 final class MedicalObservationalStudyDesign extends AbstractType

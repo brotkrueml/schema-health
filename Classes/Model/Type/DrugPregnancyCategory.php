@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Categories that represent an assessment of the risk of fetal injury due to a drug or pharmaceutical used as directed by the mother during pregnancy.
+ * @deprecated This type represents an enumeration, use the specific DrugPregnancyCategory enum instead.
  */
 #[Type('DrugPregnancyCategory')]
 final class DrugPregnancyCategory extends AbstractType

@@ -15,6 +15,7 @@ use Brotkrueml\Schema\Core\ViewHelpers\AbstractTypeViewHelper;
 
 /**
  * Level of evidence for a medical guideline. Enumerated type.
+ * @deprecated This type represents an enumeration, use the enum with the {f:constant()} ViewHelper instead (available since Fluid 2.12).
  */
 final class MedicalEvidenceLevelViewHelper extends AbstractTypeViewHelper
 {

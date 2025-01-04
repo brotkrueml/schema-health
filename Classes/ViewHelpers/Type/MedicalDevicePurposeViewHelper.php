@@ -15,6 +15,7 @@ use Brotkrueml\Schema\Core\ViewHelpers\AbstractTypeViewHelper;
 
 /**
  * Categories of medical devices, organized by the purpose or intended use of the device.
+ * @deprecated This type represents an enumeration, use the enum with the {f:constant()} ViewHelper instead (available since Fluid 2.12).
  */
 final class MedicalDevicePurposeViewHelper extends AbstractTypeViewHelper
 {

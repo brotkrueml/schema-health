@@ -15,6 +15,7 @@ use Brotkrueml\Schema\Core\ViewHelpers\AbstractTypeViewHelper;
 
 /**
  * Categories of physical activity, organized by physiologic classification.
+ * @deprecated This type represents an enumeration, use the enum with the {f:constant()} ViewHelper instead (available since Fluid 2.12).
  */
 final class PhysicalActivityCategoryViewHelper extends AbstractTypeViewHelper
 {

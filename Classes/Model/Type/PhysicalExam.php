@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * A type of physical examination of a patient performed by a physician.
+ * @deprecated This type represents an enumeration, use the specific PhysicalExam enum instead.
  */
 #[Type('PhysicalExam')]
 final class PhysicalExam extends AbstractType

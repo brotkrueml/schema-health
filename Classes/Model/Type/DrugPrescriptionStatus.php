@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Indicates whether this drug is available by prescription or over-the-counter.
+ * @deprecated This type represents an enumeration, use the specific DrugPrescriptionStatus enum instead.
  */
 #[Type('DrugPrescriptionStatus')]
 final class DrugPrescriptionStatus extends AbstractType

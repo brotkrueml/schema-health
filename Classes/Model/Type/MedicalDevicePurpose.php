@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Categories of medical devices, organized by the purpose or intended use of the device.
+ * @deprecated This type represents an enumeration, use the specific MedicalDevicePurpose enum instead.
  */
 #[Type('MedicalDevicePurpose')]
 final class MedicalDevicePurpose extends AbstractType

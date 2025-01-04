@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * The status of a medical study. Enumerated type.
+ * @deprecated This type represents an enumeration, use the specific MedicalStudyStatus enum instead.
  */
 #[Type('MedicalStudyStatus')]
 final class MedicalStudyStatus extends AbstractType

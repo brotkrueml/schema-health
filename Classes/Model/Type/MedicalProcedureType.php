@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * An enumeration that describes different types of medical procedures.
+ * @deprecated This type represents an enumeration, use the specific MedicalProcedureType enum instead.
  */
 #[Type('MedicalProcedureType')]
 final class MedicalProcedureType extends AbstractType

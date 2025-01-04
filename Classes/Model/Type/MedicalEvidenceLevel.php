@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Level of evidence for a medical guideline. Enumerated type.
+ * @deprecated This type represents an enumeration, use the specific MedicalEvidenceLevel enum instead.
  */
 #[Type('MedicalEvidenceLevel')]
 final class MedicalEvidenceLevel extends AbstractType

@@ -15,6 +15,7 @@ use Brotkrueml\Schema\Core\ViewHelpers\AbstractTypeViewHelper;
 
 /**
  * Design models for observational medical studies. Enumerated type.
+ * @deprecated This type represents an enumeration, use the enum with the {f:constant()} ViewHelper instead (available since Fluid 2.12).
  */
 final class MedicalObservationalStudyDesignViewHelper extends AbstractTypeViewHelper
 {

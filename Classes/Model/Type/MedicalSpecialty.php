@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Any specific branch of medical science or practice. Medical specialities include clinical specialties that pertain to particular organ systems and their respective disease states, as well as allied health specialties. Enumerated type.
+ * @deprecated This type represents an enumeration, use the specific MedicalSpecialty enum instead.
  */
 #[Type('MedicalSpecialty')]
 final class MedicalSpecialty extends AbstractType

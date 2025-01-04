@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Target audiences types for medical web pages. Enumerated type.
+ * @deprecated This type represents an enumeration, use the specific MedicalAudienceType enum instead.
  */
 #[Type('MedicalAudienceType')]
 final class MedicalAudienceType extends AbstractType

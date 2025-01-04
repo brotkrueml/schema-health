@@ -15,6 +15,7 @@ use Brotkrueml\Schema\Core\ViewHelpers\AbstractTypeViewHelper;
 
 /**
  * Any medical imaging modality typically used for diagnostic purposes. Enumerated type.
+ * @deprecated This type represents an enumeration, use the enum with the {f:constant()} ViewHelper instead (available since Fluid 2.12).
  */
 final class MedicalImagingTechniqueViewHelper extends AbstractTypeViewHelper
 {

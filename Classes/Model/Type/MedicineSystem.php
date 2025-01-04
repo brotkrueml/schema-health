@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Systems of medical practice.
+ * @deprecated This type represents an enumeration, use the specific MedicineSystem enum instead.
  */
 #[Type('MedicineSystem')]
 final class MedicineSystem extends AbstractType

@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Any medical imaging modality typically used for diagnostic purposes. Enumerated type.
+ * @deprecated This type represents an enumeration, use the specific MedicalImagingTechnique enum instead.
  */
 #[Type('MedicalImagingTechnique')]
 final class MedicalImagingTechnique extends AbstractType

@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Categories of physical activity, organized by physiologic classification.
+ * @deprecated This type represents an enumeration, use the specific PhysicalActivityCategory enum instead.
  */
 #[Type('PhysicalActivityCategory')]
 final class PhysicalActivityCategory extends AbstractType

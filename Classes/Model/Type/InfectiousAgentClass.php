@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Classes of agents or pathogens that transmit infectious diseases. Enumerated type.
+ * @deprecated This type represents an enumeration, use the specific InfectiousAgentClass enum instead.
  */
 #[Type('InfectiousAgentClass')]
 final class InfectiousAgentClass extends AbstractType

@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Design models for medical trials. Enumerated type.
+ * @deprecated This type represents an enumeration, use the specific MedicalTrialDesign enum instead.
  */
 #[Type('MedicalTrialDesign')]
 final class MedicalTrialDesign extends AbstractType

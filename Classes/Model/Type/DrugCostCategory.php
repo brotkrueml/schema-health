@@ -16,6 +16,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 
 /**
  * Enumerated categories of medical drug costs.
+ * @deprecated This type represents an enumeration, use the specific DrugCostCategory enum instead.
  */
 #[Type('DrugCostCategory')]
 final class DrugCostCategory extends AbstractType
