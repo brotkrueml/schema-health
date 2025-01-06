@@ -13,7 +13,7 @@ related to health and lifesciences: https://schema.org/docs/health-lifesci.home.
 | Latest release | TYPO3              | PHP   | EXT:schema | Updates will contain             |
 |----------------|--------------------|-------|------------|----------------------------------|
 | 2.x            | 11.5 / 12.4 / 13.4 | ≥ 8.1 | 3.x        | Features, security and bug fixes |
-| 1.x            | 10.4 / 11.5 / 12.4 | ≥ 7.2 | 1.x / 2.x  | Security and bug fixes           |
+| 1.x            | 10.4 / 11.5 / 12.4 | ≥ 7.2 | 1.x / 2.x  | End of life (since Oct 2024)     |
 
 [Documentation](https://docs.typo3.org/p/brotkrueml/schema-health/main/en-us/) |
 [Changelog](https://github.com/brotkrueml/schema-health/blob/main/CHANGELOG.md) |
