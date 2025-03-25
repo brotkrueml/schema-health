@@ -131,6 +131,7 @@ final class ExercisePlan extends AbstractType
         'url',
         'version',
         'video',
+        'wordCount',
         'workExample',
         'workload',
     ];

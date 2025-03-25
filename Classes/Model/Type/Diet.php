@@ -125,6 +125,7 @@ final class Diet extends AbstractType
         'url',
         'version',
         'video',
+        'wordCount',
         'workExample',
     ];
 }
