@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.9.0] - 2025-05-17
+
 ### Updated
 - schema.org definition to version 29.2
 
@@ -109,7 +111,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Initial release with schema definition version 12.0
 
 
-[Unreleased]: https://github.com/brotkrueml/schema-health/compare/v2.8.0...HEAD
+[Unreleased]: https://github.com/brotkrueml/schema-health/compare/v2.9.0...HEAD
+[2.9.0]: https://github.com/brotkrueml/schema-health/compare/v2.8.0...v2.9.0
 [2.8.0]: https://github.com/brotkrueml/schema-health/compare/v2.7.0...v2.8.0
 [2.7.0]: https://github.com/brotkrueml/schema-health/compare/v2.6.0...v2.7.0
 [2.6.0]: https://github.com/brotkrueml/schema-health/compare/v2.5.0...v2.6.0
