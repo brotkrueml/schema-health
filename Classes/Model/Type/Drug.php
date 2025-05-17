@@ -38,6 +38,7 @@ final class Drug extends AbstractType
         'code',
         'color',
         'countryOfOrigin',
+        'depth',
         'description',
         'disambiguatingDescription',
         'dosageForm',
@@ -51,6 +52,7 @@ final class Drug extends AbstractType
         'gtin8',
         'guideline',
         'hasCertification',
+        'height',
         'identifier',
         'image',
         'interactingDrug',
@@ -100,5 +102,7 @@ final class Drug extends AbstractType
         'subjectOf',
         'url',
         'warning',
+        'weight',
+        'width',
     ];
 }

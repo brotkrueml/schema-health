@@ -55,6 +55,7 @@ final class Patient extends AbstractType
         'hasOfferCatalog',
         'hasPOS',
         'healthCondition',
+        'height',
         'homeLocation',
         'honorificPrefix',
         'honorificSuffix',
@@ -93,6 +94,7 @@ final class Patient extends AbstractType
         'telephone',
         'url',
         'vatID',
+        'weight',
         'workLocation',
         'worksFor',
     ];

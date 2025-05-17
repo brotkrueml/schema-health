@@ -33,6 +33,7 @@ final class DietarySupplement extends AbstractType
         'code',
         'color',
         'countryOfOrigin',
+        'depth',
         'description',
         'disambiguatingDescription',
         'gtin12',
@@ -41,6 +42,7 @@ final class DietarySupplement extends AbstractType
         'gtin8',
         'guideline',
         'hasCertification',
+        'height',
         'identifier',
         'image',
         'isAccessoryOrSparePartFor',
@@ -83,5 +85,7 @@ final class DietarySupplement extends AbstractType
         'subjectOf',
         'targetPopulation',
         'url',
+        'weight',
+        'width',
     ];
 }
