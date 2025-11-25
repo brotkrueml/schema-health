@@ -16,7 +16,7 @@
     />
     <project
         title="schema_health"
-        release="2.11.0-dev"
+        release="2.11.0"
         version="2.11"
         copyright="since 2021 by Chris Müller"
     />

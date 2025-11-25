@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.11.0] - 2025-11-25
+
 ### Added
 - Compatibility with TYPO3 v14
 
@@ -119,7 +121,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Initial release with schema definition version 12.0
 
 
-[Unreleased]: https://github.com/brotkrueml/schema-health/compare/v2.10.0...HEAD
+[Unreleased]: https://github.com/brotkrueml/schema-health/compare/v2.11.0...HEAD
+[2.11.0]: https://github.com/brotkrueml/schema-health/compare/v2.10.0...v2.11.0
 [2.10.0]: https://github.com/brotkrueml/schema-health/compare/v2.9.0...v2.10.0
 [2.9.0]: https://github.com/brotkrueml/schema-health/compare/v2.8.0...v2.9.0
 [2.8.0]: https://github.com/brotkrueml/schema-health/compare/v2.7.0...v2.8.0
