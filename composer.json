@@ -1,6 +1,6 @@
 {
 	"name": "brotkrueml/schema-health",
-	"description": "Extend the schema extension with health-related terms",
+	"description": "Schema.org extension for health and lifesciences - Extend the schema extension with health-related terms",
 	"license": "GPL-2.0-or-later",
 	"type": "typo3-cms-extension",
 	"keywords": [
