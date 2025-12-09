@@ -33,6 +33,7 @@ final class MedicalIndication extends AbstractType
         'mainEntityOfPage',
         'medicineSystem',
         'name',
+        'owner',
         'potentialAction',
         'recognizingAuthority',
         'relevantSpecialty',

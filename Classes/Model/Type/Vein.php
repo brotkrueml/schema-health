@@ -38,6 +38,7 @@ final class Vein extends AbstractType
         'mainEntityOfPage',
         'medicineSystem',
         'name',
+        'owner',
         'partOfSystem',
         'potentialAction',
         'recognizingAuthority',

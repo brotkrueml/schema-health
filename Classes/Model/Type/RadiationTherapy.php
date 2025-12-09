@@ -41,6 +41,7 @@ final class RadiationTherapy extends AbstractType
         'mainEntityOfPage',
         'medicineSystem',
         'name',
+        'owner',
         'potentialAction',
         'preparation',
         'procedureType',

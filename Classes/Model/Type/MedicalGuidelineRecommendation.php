@@ -37,6 +37,7 @@ final class MedicalGuidelineRecommendation extends AbstractType
         'mainEntityOfPage',
         'medicineSystem',
         'name',
+        'owner',
         'potentialAction',
         'recognizingAuthority',
         'recommendationStrength',

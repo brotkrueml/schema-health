@@ -81,6 +81,7 @@ final class Drug extends AbstractType
         'nonProprietaryName',
         'offers',
         'overdosage',
+        'owner',
         'potentialAction',
         'pregnancyCategory',
         'pregnancyWarning',

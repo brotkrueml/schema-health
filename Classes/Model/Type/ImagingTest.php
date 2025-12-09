@@ -36,6 +36,7 @@ final class ImagingTest extends AbstractType
         'medicineSystem',
         'name',
         'normalRange',
+        'owner',
         'potentialAction',
         'recognizingAuthority',
         'relevantSpecialty',

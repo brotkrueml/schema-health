@@ -34,6 +34,7 @@ final class DrugClass extends AbstractType
         'mainEntityOfPage',
         'medicineSystem',
         'name',
+        'owner',
         'potentialAction',
         'recognizingAuthority',
         'relevantSpecialty',

@@ -21,6 +21,7 @@ use Brotkrueml\Schema\Core\Model\AbstractType;
 final class MedicalCode extends AbstractType
 {
     protected static array $propertyNames = [
+        'about',
         'additionalType',
         'alternateName',
         'code',
@@ -34,6 +35,7 @@ final class MedicalCode extends AbstractType
         'mainEntityOfPage',
         'medicineSystem',
         'name',
+        'owner',
         'potentialAction',
         'recognizingAuthority',
         'relevantSpecialty',

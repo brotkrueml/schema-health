@@ -36,6 +36,7 @@ final class PhysicalActivity extends AbstractType
         'mainEntityOfPage',
         'medicineSystem',
         'name',
+        'owner',
         'pathophysiology',
         'potentialAction',
         'recognizingAuthority',

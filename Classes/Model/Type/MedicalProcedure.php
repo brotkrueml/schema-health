@@ -36,6 +36,7 @@ final class MedicalProcedure extends AbstractType
         'mainEntityOfPage',
         'medicineSystem',
         'name',
+        'owner',
         'potentialAction',
         'preparation',
         'procedureType',

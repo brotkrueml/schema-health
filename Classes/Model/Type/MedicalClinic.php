@@ -94,6 +94,7 @@ final class MedicalClinic extends AbstractType
         'numberOfEmployees',
         'openingHours',
         'openingHoursSpecification',
+        'owner',
         'owns',
         'parentOrganization',
         'paymentAccepted',

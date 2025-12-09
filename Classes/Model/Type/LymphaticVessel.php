@@ -38,6 +38,7 @@ final class LymphaticVessel extends AbstractType
         'medicineSystem',
         'name',
         'originatesFrom',
+        'owner',
         'partOfSystem',
         'potentialAction',
         'recognizingAuthority',

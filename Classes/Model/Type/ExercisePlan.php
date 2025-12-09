@@ -98,6 +98,7 @@ final class ExercisePlan extends AbstractType
         'mentions',
         'name',
         'offers',
+        'owner',
         'pathophysiology',
         'position',
         'potentialAction',

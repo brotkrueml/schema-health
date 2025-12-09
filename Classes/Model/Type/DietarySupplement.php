@@ -67,6 +67,7 @@ final class DietarySupplement extends AbstractType
         'name',
         'nonProprietaryName',
         'offers',
+        'owner',
         'potentialAction',
         'productID',
         'productionDate',

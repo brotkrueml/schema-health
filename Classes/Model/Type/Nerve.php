@@ -38,6 +38,7 @@ final class Nerve extends AbstractType
         'medicineSystem',
         'name',
         'nerveMotor',
+        'owner',
         'partOfSystem',
         'potentialAction',
         'recognizingAuthority',

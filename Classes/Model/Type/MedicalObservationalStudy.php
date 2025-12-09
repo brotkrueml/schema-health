@@ -34,6 +34,7 @@ final class MedicalObservationalStudy extends AbstractType
         'mainEntityOfPage',
         'medicineSystem',
         'name',
+        'owner',
         'potentialAction',
         'recognizingAuthority',
         'relevantSpecialty',

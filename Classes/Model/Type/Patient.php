@@ -71,6 +71,7 @@ final class Patient extends AbstractType
         'name',
         'nationality',
         'netWorth',
+        'owner',
         'owns',
         'parent',
         'performerIn',

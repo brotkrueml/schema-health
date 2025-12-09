@@ -42,6 +42,7 @@ final class Muscle extends AbstractType
         'muscleAction',
         'name',
         'nerve',
+        'owner',
         'partOfSystem',
         'potentialAction',
         'recognizingAuthority',

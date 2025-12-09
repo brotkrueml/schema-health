@@ -34,6 +34,7 @@ final class SuperficialAnatomy extends AbstractType
         'mainEntityOfPage',
         'medicineSystem',
         'name',
+        'owner',
         'potentialAction',
         'recognizingAuthority',
         'relatedAnatomy',

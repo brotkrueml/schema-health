@@ -37,6 +37,7 @@ final class AnatomicalStructure extends AbstractType
         'mainEntityOfPage',
         'medicineSystem',
         'name',
+        'owner',
         'partOfSystem',
         'potentialAction',
         'recognizingAuthority',

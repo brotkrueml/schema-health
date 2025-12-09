@@ -35,6 +35,7 @@ final class MedicalTest extends AbstractType
         'medicineSystem',
         'name',
         'normalRange',
+        'owner',
         'potentialAction',
         'recognizingAuthority',
         'relevantSpecialty',

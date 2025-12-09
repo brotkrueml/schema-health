@@ -36,6 +36,7 @@ final class DrugStrength extends AbstractType
         'maximumIntake',
         'medicineSystem',
         'name',
+        'owner',
         'potentialAction',
         'recognizingAuthority',
         'relevantSpecialty',

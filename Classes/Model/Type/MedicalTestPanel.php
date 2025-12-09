@@ -35,6 +35,7 @@ final class MedicalTestPanel extends AbstractType
         'medicineSystem',
         'name',
         'normalRange',
+        'owner',
         'potentialAction',
         'recognizingAuthority',
         'relevantSpecialty',

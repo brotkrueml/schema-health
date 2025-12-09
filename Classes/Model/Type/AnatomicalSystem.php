@@ -35,6 +35,7 @@ final class AnatomicalSystem extends AbstractType
         'mainEntityOfPage',
         'medicineSystem',
         'name',
+        'owner',
         'potentialAction',
         'recognizingAuthority',
         'relatedCondition',

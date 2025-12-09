@@ -35,6 +35,7 @@ final class MedicalDevice extends AbstractType
         'mainEntityOfPage',
         'medicineSystem',
         'name',
+        'owner',
         'postOp',
         'potentialAction',
         'preOp',

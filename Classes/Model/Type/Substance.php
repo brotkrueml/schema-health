@@ -35,6 +35,7 @@ final class Substance extends AbstractType
         'maximumIntake',
         'medicineSystem',
         'name',
+        'owner',
         'potentialAction',
         'recognizingAuthority',
         'relevantSpecialty',

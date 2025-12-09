@@ -35,6 +35,7 @@ final class BloodTest extends AbstractType
         'medicineSystem',
         'name',
         'normalRange',
+        'owner',
         'potentialAction',
         'recognizingAuthority',
         'relevantSpecialty',

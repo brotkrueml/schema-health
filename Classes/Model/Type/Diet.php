@@ -93,6 +93,7 @@ final class Diet extends AbstractType
         'mentions',
         'name',
         'offers',
+        'owner',
         'physiologicalBenefits',
         'position',
         'potentialAction',

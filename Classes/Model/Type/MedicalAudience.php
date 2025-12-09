@@ -32,6 +32,7 @@ final class MedicalAudience extends AbstractType
         'image',
         'mainEntityOfPage',
         'name',
+        'owner',
         'potentialAction',
         'requiredGender',
         'requiredMaxAge',

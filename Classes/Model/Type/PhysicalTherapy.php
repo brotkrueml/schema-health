@@ -41,6 +41,7 @@ final class PhysicalTherapy extends AbstractType
         'mainEntityOfPage',
         'medicineSystem',
         'name',
+        'owner',
         'potentialAction',
         'preparation',
         'procedureType',

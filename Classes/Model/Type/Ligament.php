@@ -37,6 +37,7 @@ final class Ligament extends AbstractType
         'mainEntityOfPage',
         'medicineSystem',
         'name',
+        'owner',
         'partOfSystem',
         'potentialAction',
         'recognizingAuthority',
