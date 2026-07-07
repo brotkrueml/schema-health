@@ -28,6 +28,7 @@ final class DrugStrength extends AbstractType
         'code',
         'description',
         'disambiguatingDescription',
+        'funding',
         'guideline',
         'identifier',
         'image',

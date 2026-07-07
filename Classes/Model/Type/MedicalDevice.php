@@ -28,6 +28,7 @@ final class MedicalDevice extends AbstractType
         'contraindication',
         'description',
         'disambiguatingDescription',
+        'funding',
         'guideline',
         'identifier',
         'image',

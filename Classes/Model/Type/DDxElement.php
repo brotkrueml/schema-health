@@ -28,6 +28,7 @@ final class DDxElement extends AbstractType
         'diagnosis',
         'disambiguatingDescription',
         'distinguishingSign',
+        'funding',
         'guideline',
         'identifier',
         'image',

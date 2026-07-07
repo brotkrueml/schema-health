@@ -52,6 +52,7 @@ final class MedicalClinic extends AbstractType
         'foundingDate',
         'foundingLocation',
         'funder',
+        'funding',
         'geo',
         'geoContains',
         'geoCoveredBy',

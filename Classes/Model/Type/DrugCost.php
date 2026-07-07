@@ -33,6 +33,7 @@ final class DrugCost extends AbstractType
         'disambiguatingDescription',
         'drugUnit',
         'guideline',
+        'funding',
         'identifier',
         'image',
         'legalStatus',

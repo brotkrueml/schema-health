@@ -72,6 +72,7 @@ final class ExercisePlan extends AbstractType
         'exerciseType',
         'expires',
         'funder',
+        'funding',
         'genre',
         'guideline',
         'hasPart',

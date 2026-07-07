@@ -30,6 +30,7 @@ final class LymphaticVessel extends AbstractType
         'description',
         'diagram',
         'disambiguatingDescription',
+        'funding',
         'guideline',
         'identifier',
         'image',

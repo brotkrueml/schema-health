@@ -28,6 +28,7 @@ final class MaximumDoseSchedule extends AbstractType
         'disambiguatingDescription',
         'doseUnit',
         'doseValue',
+        'funding',
         'frequency',
         'guideline',
         'identifier',

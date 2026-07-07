@@ -27,6 +27,7 @@ final class BloodTest extends AbstractType
         'code',
         'description',
         'disambiguatingDescription',
+        'funding',
         'guideline',
         'identifier',
         'image',

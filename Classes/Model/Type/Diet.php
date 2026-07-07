@@ -68,6 +68,7 @@ final class Diet extends AbstractType
         'expertConsiderations',
         'expires',
         'funder',
+        'funding',
         'genre',
         'guideline',
         'hasPart',

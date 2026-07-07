@@ -28,6 +28,7 @@ final class MedicalGuidelineRecommendation extends AbstractType
         'disambiguatingDescription',
         'evidenceLevel',
         'evidenceOrigin',
+        'funding',
         'guideline',
         'guidelineDate',
         'guidelineSubject',

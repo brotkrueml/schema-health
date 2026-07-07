@@ -47,6 +47,7 @@ final class Patient extends AbstractType
         'faxNumber',
         'follows',
         'funder',
+        'funding',
         'geographicArea',
         'givenName',
         'globalLocationNumber',

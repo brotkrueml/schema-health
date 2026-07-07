@@ -36,6 +36,7 @@ final class DietarySupplement extends AbstractType
         'depth',
         'description',
         'disambiguatingDescription',
+        'funding',
         'gtin12',
         'gtin13',
         'gtin14',

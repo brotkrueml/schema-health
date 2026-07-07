@@ -31,6 +31,7 @@ final class Artery extends AbstractType
         'description',
         'diagram',
         'disambiguatingDescription',
+        'funding',
         'guideline',
         'identifier',
         'image',

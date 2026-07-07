@@ -66,6 +66,7 @@ final class MedicalWebPage extends AbstractType implements WebPageTypeInterface
         'exampleOfWork',
         'expires',
         'funder',
+        'funding',
         'genre',
         'hasPart',
         'headline',

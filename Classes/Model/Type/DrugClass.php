@@ -27,6 +27,7 @@ final class DrugClass extends AbstractType
         'description',
         'disambiguatingDescription',
         'drug',
+        'funding',
         'guideline',
         'identifier',
         'image',

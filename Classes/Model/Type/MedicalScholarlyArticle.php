@@ -66,6 +66,7 @@ final class MedicalScholarlyArticle extends AbstractType
         'exampleOfWork',
         'expires',
         'funder',
+        'funding',
         'genre',
         'hasPart',
         'headline',

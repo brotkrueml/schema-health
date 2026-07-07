@@ -51,6 +51,7 @@ final class MedicalBusiness extends AbstractType
         'foundingDate',
         'foundingLocation',
         'funder',
+        'funding',
         'geo',
         'geoContains',
         'geoCoveredBy',

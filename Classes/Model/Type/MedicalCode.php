@@ -28,6 +28,7 @@ final class MedicalCode extends AbstractType
         'codingSystem',
         'description',
         'disambiguatingDescription',
+        'funding',
         'guideline',
         'identifier',
         'image',

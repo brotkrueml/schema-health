@@ -30,6 +30,7 @@ final class Ligament extends AbstractType
         'description',
         'diagram',
         'disambiguatingDescription',
+        'funding',
         'guideline',
         'identifier',
         'image',

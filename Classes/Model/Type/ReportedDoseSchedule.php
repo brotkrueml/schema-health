@@ -29,6 +29,7 @@ final class ReportedDoseSchedule extends AbstractType
         'doseUnit',
         'doseValue',
         'frequency',
+        'funding',
         'guideline',
         'identifier',
         'image',

@@ -46,6 +46,7 @@ final class Drug extends AbstractType
         'drugClass',
         'drugUnit',
         'foodWarning',
+        'funding',
         'gtin12',
         'gtin13',
         'gtin14',

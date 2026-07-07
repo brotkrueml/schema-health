@@ -45,6 +45,7 @@ final class VeterinaryCare extends AbstractType
         'foundingDate',
         'foundingLocation',
         'funder',
+        'funding',
         'globalLocationNumber',
         'hasCertification',
         'hasMemberProgram',

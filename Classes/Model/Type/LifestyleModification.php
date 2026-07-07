@@ -26,6 +26,7 @@ final class LifestyleModification extends AbstractType
         'code',
         'description',
         'disambiguatingDescription',
+        'funding',
         'guideline',
         'identifier',
         'image',
