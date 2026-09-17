@@ -15,7 +15,6 @@ use Brotkrueml\Schema\Core\Model\EnumerationInterface;
 
 /**
  * Categories that represent an assessment of the risk of fetal injury due to a drug or pharmaceutical used as directed by the mother during pregnancy.
- * @experimental This enum is considered experimental and may change at any time until it is declared stable.
  */
 enum DrugPregnancyCategory implements EnumerationInterface
 {

@@ -15,7 +15,6 @@ use Brotkrueml\Schema\Core\Model\EnumerationInterface;
 
 /**
  * Indicates whether this drug is available by prescription or over-the-counter.
- * @experimental This enum is considered experimental and may change at any time until it is declared stable.
  */
 enum DrugPrescriptionStatus implements EnumerationInterface
 {

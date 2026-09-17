@@ -15,7 +15,6 @@ use Brotkrueml\Schema\Core\Model\EnumerationInterface;
 
 /**
  * Target audiences types for medical web pages. Enumerated type.
- * @experimental This enum is considered experimental and may change at any time until it is declared stable.
  */
 enum MedicalAudienceType implements EnumerationInterface
 {

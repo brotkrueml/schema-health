@@ -15,7 +15,6 @@ use Brotkrueml\Schema\Core\Model\EnumerationInterface;
 
 /**
  * A type of physical examination of a patient performed by a physician.
- * @experimental This enum is considered experimental and may change at any time until it is declared stable.
  */
 enum PhysicalExam implements EnumerationInterface
 {

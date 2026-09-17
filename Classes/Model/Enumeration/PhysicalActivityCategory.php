@@ -15,7 +15,6 @@ use Brotkrueml\Schema\Core\Model\EnumerationInterface;
 
 /**
  * Categories of physical activity, organized by physiologic classification.
- * @experimental This enum is considered experimental and may change at any time until it is declared stable.
  */
 enum PhysicalActivityCategory implements EnumerationInterface
 {

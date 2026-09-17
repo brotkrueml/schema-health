@@ -15,7 +15,6 @@ use Brotkrueml\Schema\Core\Model\EnumerationInterface;
 
 /**
  * Design models for medical trials. Enumerated type.
- * @experimental This enum is considered experimental and may change at any time until it is declared stable.
  */
 enum MedicalTrialDesign implements EnumerationInterface
 {

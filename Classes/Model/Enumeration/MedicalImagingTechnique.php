@@ -15,7 +15,6 @@ use Brotkrueml\Schema\Core\Model\EnumerationInterface;
 
 /**
  * Any medical imaging modality typically used for diagnostic purposes. Enumerated type.
- * @experimental This enum is considered experimental and may change at any time until it is declared stable.
  */
 enum MedicalImagingTechnique implements EnumerationInterface
 {

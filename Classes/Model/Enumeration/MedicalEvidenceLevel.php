@@ -15,7 +15,6 @@ use Brotkrueml\Schema\Core\Model\EnumerationInterface;
 
 /**
  * Level of evidence for a medical guideline. Enumerated type.
- * @experimental This enum is considered experimental and may change at any time until it is declared stable.
  */
 enum MedicalEvidenceLevel implements EnumerationInterface
 {

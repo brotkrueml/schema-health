@@ -15,7 +15,6 @@ use Brotkrueml\Schema\Core\Model\EnumerationInterface;
 
 /**
  * Classes of agents or pathogens that transmit infectious diseases. Enumerated type.
- * @experimental This enum is considered experimental and may change at any time until it is declared stable.
  */
 enum InfectiousAgentClass implements EnumerationInterface
 {

@@ -15,7 +15,6 @@ use Brotkrueml\Schema\Core\Model\EnumerationInterface;
 
 /**
  * Systems of medical practice.
- * @experimental This enum is considered experimental and may change at any time until it is declared stable.
  */
 enum MedicineSystem implements EnumerationInterface
 {

@@ -15,7 +15,6 @@ use Brotkrueml\Schema\Core\Model\EnumerationInterface;
 
 /**
  * An enumeration that describes different types of medical procedures.
- * @experimental This enum is considered experimental and may change at any time until it is declared stable.
  */
 enum MedicalProcedureType implements EnumerationInterface
 {
