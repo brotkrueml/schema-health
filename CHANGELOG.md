@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Compatibility with EXT:schema version 3
 - Compatibility with TYPO3 v11
 - Compatibility with TYPO3 v12
+- Types and view helpers representing enumerations
 
 ## [2.12.0] - 2025-12-09
 

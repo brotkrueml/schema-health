@@ -18,6 +18,7 @@ Removed
 * Compatibility with EXT:schema version 3
 * Compatibility with TYPO3 v11
 * Compatibility with TYPO3 v12
+* Types and view helpers representing enumerations
 
 `2.12.0 <https://github.com/brotkrueml/schema-health/compare/v2.11.0...v2.12.0>`_ - 2025-12-09
 --------------------------------------------------------------------------------------------------
@@ -50,7 +51,7 @@ Added
 ^^^^^
 
 
-* Compatibility with EXT:schema v4
+* Compatibility with EXT:schema version 4
 
 `2.9.0 <https://github.com/brotkrueml/schema-health/compare/v2.8.0...v2.9.0>`_ - 2025-05-17
 -----------------------------------------------------------------------------------------------
