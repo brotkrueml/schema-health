@@ -13,7 +13,7 @@ namespace Brotkrueml\SchemaHealth\Model\AdditionalProperties;
 
 use Brotkrueml\Schema\Core\AdditionalPropertiesInterface;
 
-final class Dentist implements AdditionalPropertiesInterface
+final readonly class Dentist implements AdditionalPropertiesInterface
 {
     public function getType(): string
     {

@@ -13,7 +13,7 @@ namespace Brotkrueml\SchemaHealth\Model\AdditionalProperties;
 
 use Brotkrueml\Schema\Core\AdditionalPropertiesInterface;
 
-final class CovidTestingFacility implements AdditionalPropertiesInterface
+final readonly class CovidTestingFacility implements AdditionalPropertiesInterface
 {
     public function getType(): string
     {

@@ -13,7 +13,7 @@ namespace Brotkrueml\SchemaHealth\Model\AdditionalProperties;
 
 use Brotkrueml\Schema\Core\AdditionalPropertiesInterface;
 
-final class MedicalOrganization implements AdditionalPropertiesInterface
+final readonly class MedicalOrganization implements AdditionalPropertiesInterface
 {
     public function getType(): string
     {
