@@ -29,6 +29,7 @@ final class RecommendedDoseSchedule extends AbstractType
         'doseUnit',
         'doseValue',
         'frequency',
+        'funding',
         'guideline',
         'identifier',
         'image',

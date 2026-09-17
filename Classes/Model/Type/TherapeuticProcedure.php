@@ -31,6 +31,7 @@ final class TherapeuticProcedure extends AbstractType
         'doseSchedule',
         'drug',
         'followup',
+        'funding',
         'guideline',
         'howPerformed',
         'identifier',

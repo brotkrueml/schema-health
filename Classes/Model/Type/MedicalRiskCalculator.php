@@ -27,6 +27,7 @@ final class MedicalRiskCalculator extends AbstractType
         'description',
         'disambiguatingDescription',
         'estimatesRiskOf',
+        'funding',
         'guideline',
         'identifier',
         'image',

@@ -30,6 +30,7 @@ final class Vessel extends AbstractType
         'description',
         'diagram',
         'disambiguatingDescription',
+        'funding',
         'guideline',
         'identifier',
         'image',

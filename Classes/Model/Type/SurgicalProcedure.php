@@ -28,6 +28,7 @@ final class SurgicalProcedure extends AbstractType
         'description',
         'disambiguatingDescription',
         'followup',
+        'funding',
         'guideline',
         'howPerformed',
         'identifier',

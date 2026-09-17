@@ -33,6 +33,7 @@ final class PalliativeProcedure extends AbstractType
         'drug',
         'duplicateTherapy',
         'followup',
+        'funding',
         'guideline',
         'howPerformed',
         'identifier',

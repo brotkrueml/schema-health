@@ -27,6 +27,7 @@ final class SuperficialAnatomy extends AbstractType
         'code',
         'description',
         'disambiguatingDescription',
+        'funding',
         'guideline',
         'identifier',
         'image',

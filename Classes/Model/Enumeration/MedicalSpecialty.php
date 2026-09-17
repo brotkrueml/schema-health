@@ -25,6 +25,11 @@ enum MedicalSpecialty implements EnumerationInterface
     case Anesthesia;
 
     /**
+     * A specific branch of medical science concerned with the diagnosis, management, and non-surgical treatment of hearing, balance, and related auditory processing disorders, including conditions such as tinnitus, hyperacusis, and misophonia.
+     */
+    case Audiology;
+
+    /**
      * A specific branch of medical science that pertains to diagnosis and treatment of disorders of heart and vasculature.
      */
     case Cardiovascular;
@@ -123,6 +128,11 @@ enum MedicalSpecialty implements EnumerationInterface
      * A specific branch of medical science that deals with benign and malignant tumors, including the study of their development, diagnosis, treatment and prevention.
      */
     case Oncologic;
+
+    /**
+     * A specific branch of medical science that pertains to the diagnosis and treatment of disorders of the eye and its associated visual structures, including medical and surgical interventions.
+     */
+    case Ophthalmology;
 
     /**
      * The science or practice of testing visual acuity and prescribing corrective lenses.

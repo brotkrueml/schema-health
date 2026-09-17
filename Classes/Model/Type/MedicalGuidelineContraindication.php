@@ -28,6 +28,7 @@ final class MedicalGuidelineContraindication extends AbstractType
         'disambiguatingDescription',
         'evidenceLevel',
         'evidenceOrigin',
+        'funding',
         'guideline',
         'guidelineDate',
         'guidelineSubject',

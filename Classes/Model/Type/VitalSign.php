@@ -32,6 +32,7 @@ final class VitalSign extends AbstractType
         'drug',
         'epidemiology',
         'expectedPrognosis',
+        'funding',
         'guideline',
         'identifier',
         'identifyingExam',

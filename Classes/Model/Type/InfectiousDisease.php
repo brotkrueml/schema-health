@@ -32,6 +32,7 @@ final class InfectiousDisease extends AbstractType
         'drug',
         'epidemiology',
         'expectedPrognosis',
+        'funding',
         'guideline',
         'identifier',
         'image',

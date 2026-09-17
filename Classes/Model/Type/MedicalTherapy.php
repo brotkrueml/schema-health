@@ -33,6 +33,7 @@ final class MedicalTherapy extends AbstractType
         'drug',
         'duplicateTherapy',
         'followup',
+        'funding',
         'guideline',
         'howPerformed',
         'identifier',

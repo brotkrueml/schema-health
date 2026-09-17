@@ -32,6 +32,7 @@ final class MedicalSign extends AbstractType
         'drug',
         'epidemiology',
         'expectedPrognosis',
+        'funding',
         'guideline',
         'identifier',
         'identifyingExam',

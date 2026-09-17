@@ -28,6 +28,7 @@ final class AnatomicalSystem extends AbstractType
         'comprisedOf',
         'description',
         'disambiguatingDescription',
+        'funding',
         'guideline',
         'identifier',
         'image',

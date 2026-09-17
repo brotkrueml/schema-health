@@ -32,6 +32,7 @@ final class Joint extends AbstractType
         'diagram',
         'disambiguatingDescription',
         'functionalClass',
+        'funding',
         'guideline',
         'identifier',
         'image',

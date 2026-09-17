@@ -31,6 +31,7 @@ final class Vein extends AbstractType
         'diagram',
         'disambiguatingDescription',
         'drainsTo',
+        'funding',
         'guideline',
         'identifier',
         'image',

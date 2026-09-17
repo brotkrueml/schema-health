@@ -28,6 +28,7 @@ final class MedicalProcedure extends AbstractType
         'description',
         'disambiguatingDescription',
         'followup',
+        'funding',
         'guideline',
         'howPerformed',
         'identifier',

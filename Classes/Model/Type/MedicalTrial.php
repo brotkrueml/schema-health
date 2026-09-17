@@ -26,6 +26,7 @@ final class MedicalTrial extends AbstractType
         'code',
         'description',
         'disambiguatingDescription',
+        'funding',
         'guideline',
         'healthCondition',
         'identifier',

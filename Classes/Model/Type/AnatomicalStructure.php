@@ -30,6 +30,7 @@ final class AnatomicalStructure extends AbstractType
         'description',
         'diagram',
         'disambiguatingDescription',
+        'funding',
         'guideline',
         'identifier',
         'image',

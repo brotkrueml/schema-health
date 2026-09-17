@@ -29,6 +29,7 @@ final class PhysicalActivity extends AbstractType
         'description',
         'disambiguatingDescription',
         'epidemiology',
+        'funding',
         'guideline',
         'identifier',
         'image',

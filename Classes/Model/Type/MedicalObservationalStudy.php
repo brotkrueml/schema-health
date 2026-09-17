@@ -26,6 +26,7 @@ final class MedicalObservationalStudy extends AbstractType
         'code',
         'description',
         'disambiguatingDescription',
+        'funding',
         'guideline',
         'healthCondition',
         'identifier',

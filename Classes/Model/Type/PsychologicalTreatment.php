@@ -31,6 +31,7 @@ final class PsychologicalTreatment extends AbstractType
         'doseSchedule',
         'drug',
         'followup',
+        'funding',
         'guideline',
         'howPerformed',
         'identifier',
