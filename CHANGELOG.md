@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Removed
+- Compatibility with EXT:schema version 3
+- Compatibility with TYPO3 v11
+- Compatibility with TYPO3 v12
+
 ## [2.12.0] - 2025-12-09
 
 ### Updated
@@ -22,7 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.10.0] - 2025-09-09
 
 ### Added
-- Compatibility with EXT:schema v4
+- Compatibility with EXT:schema version 4
 
 ## [2.9.0] - 2025-05-17
 

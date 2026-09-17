@@ -11,6 +11,14 @@ and this project adheres to `Semantic Versioning <https://semver.org/spec/v2.0.0
 `Unreleased <https://github.com/brotkrueml/schema-health/compare/v2.12.0...HEAD>`_
 --------------------------------------------------------------------------------------
 
+Removed
+^^^^^^^
+
+
+* Compatibility with EXT:schema version 3
+* Compatibility with TYPO3 v11
+* Compatibility with TYPO3 v12
+
 `2.12.0 <https://github.com/brotkrueml/schema-health/compare/v2.11.0...v2.12.0>`_ - 2025-12-09
 --------------------------------------------------------------------------------------------------
 
